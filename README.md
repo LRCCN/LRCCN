@@ -1,4 +1,5 @@
-<h1 align="left">Hi 👋, I'm Luiz Neto</h1>
+<h1 align="left"> <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/6fcc1959-72d7-4aa4-8dd1-5869b9a853a5" />
+Hi 👋, I'm Luiz Neto</h1>
 <h3 align="left">As a seasoned QA Professional with over a decade of hands-on experience in the technology and electronics industries, I bring a deep-rooted passion for quality assurance that has guided my career from the very beginning(2014). My journey has been defined by a commitment to detail, strong team communication, continuous improvement, and delivering excellence across diverse software environments.</h3>
 
 🎲 Finding bugs since 2014...
