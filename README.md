@@ -7,13 +7,29 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/LRCCN](https://github.com/LRCCN)
 
-- 📫 How to reach me **luizitow@hotmail.com**
+- 📫 How to reach me Email: **luizitow@hotmail.com** | Mobile: **+5592993443345**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/luiz-neto-qa/](https://www.linkedin.com/in/luiz-neto-qa/)
 
-https://api.devicons.dev.br/icon?icons=Cypress%2CSelenium%2CPostman%2CJavaScript%2CTypeScript%2CJira%2CDocker%2CJenkins%2CGit%2CGithub%2CGitLab%2COracle%2CSQLite&size=48&theme=dark&perline=10
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+➥ Tools and Applications:
+
+➟ Web Test Automation: Cypress (JavaScript/TypeScript), Selenium WebDriver.
+
+➟ Mobile Test Automation: Appium.
+
+➟ REST API: Postman CLI, Newman, HTML Reports(htmlextra), Swagger.io.
+
+➟ Performance: JMeter.
+
+➟ Database Applications: SQL and PL/SQL - Oracle SQL Developer.
+
+➟ CI/CD:  Docker Jenkins, GitLab CI, TeamCity.
+
+➟ Test Management: Jira, Zephyr, Confluence.
+
+➟ Others: AWS, Git, Git Hub
+
+➥ Frameworks and Methodologies: Agile/Scrum, Kanban, Waterfall
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lrccn&show_icons=true&locale=en&layout=compact" alt="lrccn" /></p>
 
