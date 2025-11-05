@@ -1,15 +1,21 @@
-<h1 align="center">Hi 👋, I'm Luiz Neto</h1>
-<h3 align="center">A passionate QA Engineer from Brazil</h3>
+<h1 align="left">Hi 👋, I'm Luiz Neto</h1>
+<h3 align="left">As a seasoned QA Professional with over a decade of hands-on experience in the technology and electronics industries, I bring a deep-rooted passion for quality assurance that has guided my career from the very beginning(2014). My journey has been defined by a commitment to detail, strong team communication, continuous improvement, and delivering excellence across diverse software environments.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lrccn&label=Profile%20views&color=0e75b6&style=flat" alt="lrccn" /> </p>
+🎲 Finding bugs since 2014...
 
-- 🌱 I’m currently learning **Cypress and Playwright**
+✨ Delivering high-quality software that meets customer expectations and business needs.
 
-- 👨‍💻 All of my projects are available at [https://github.com/LRCCN](https://github.com/LRCCN)
+📚 I'm currently learning Cypress and Playwright ...
 
-- 📫 How to reach me Email: **luizitow@hotmail.com** | Mobile: **+5592993443345**
+🎯 Goals: Improve my skills in Automation Testing
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/luiz-neto-qa/](https://www.linkedin.com/in/luiz-neto-qa/)
+🎲 Fun fact: Curiosity may have killed the cat, but it spared me.
+
+📫 How to reach me Email: luizitow@hotmail.com | Mobile: +5592993443345
+
+📄 Know about my experiences [https://www.linkedin.com/in/luiz-neto-qa/](https://www.linkedin.com/in/luiz-neto-qa/)
+
+____________________________________________________________________________________________________________________
 
 ➥ Tools and Applications:
 
