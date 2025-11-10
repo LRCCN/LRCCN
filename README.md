@@ -11,9 +11,9 @@
 
 🎲 Fun fact: Curiosity may have killed the cat, but it spared me.
 
-📫 How to reach me Email: luizitow@hotmail.com | Mobile: +5592993443345
+📫 How to reach me: luizitow@hotmail.com | Mobile: +5592993443345
 
-📄 Know about my experiences [https://www.linkedin.com/in/luiz-neto-qa/](https://www.linkedin.com/in/luiz-neto-qa/)
+📄 Know about my experiences: [https://www.linkedin.com/in/luiz-neto-qa/](https://www.linkedin.com/in/luiz-neto-qa/)
 
 ____________________________________________________________________________________________________________________
 
