@@ -5,7 +5,7 @@
 
 ✨ Delivering high-quality software that meets customer expectations and business needs.
 
-📚 I'm currently learning Cypress and Playwright ...
+📚 I'm currently dedicating time to enhance my hands-on experience with Cypress and Playwright.
 
 🎯 Goals: Improve my skills in Automation Testing
 
